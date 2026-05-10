@@ -101,8 +101,10 @@
 | ~12:30 PM | Lunch in Hollywood — last meal in LA |
 | ~2:00 PM | Afternoon free — **Beverly Hills / Rodeo Drive** optional (~20 min drive) |
 | ~5:00 PM | Wrap up sightseeing |
-| 8:30 PM | Drive to LAX (~35 min) — return rental car |
-| 9:30 PM | Arrive LAX — check in |
+| 7:15 PM | Leave last stop — drive to LAX Rental Car Center (~35–40 min) |
+| 8:00 PM | Arrive **LAX Rental Car Center** — return car (~10 min) |
+| ~8:30 PM | Shuttle to terminal → mobile check-in → TSA security |
+| ~9:15 PM | At gate *(gate closes ~10:05 PM — ~50 min buffer)* |
 | 22:35 | ✈️ LAX departs → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦) |
 
 > **Tip**: Backpack travel means zero airport wait — arrive LAX 1.5 hrs before departure is plenty.

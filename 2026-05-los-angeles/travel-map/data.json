@@ -267,8 +267,8 @@
           "name": "✈️ LAX – Departure to Toronto (YYZ)",
           "lat": 33.9425,
           "lng": -118.4081,
-          "time": "~9:30 PM arrive LAX · 22:35 flight",
-          "description": "Drive to LAX Rental Car Center (~35 min); return car → free shuttle to terminal → check in. Arrive airport by 8:30 PM. Flight departs 22:35 → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦). Backpack travel — arrive 1.5 hrs before departure is plenty.",
+          "time": "Leave 7:15 PM · Return car 8:00 PM · 22:35 flight",
+          "description": "Leave last stop by 7:15 PM → drive ~35–40 min → arrive LAX Rental Car Center by 8:00 PM → return car (~10 min) → free shuttle to terminal (~8:30 PM) → mobile check-in + TSA security → at gate by ~9:15 PM. Gate closes ~10:05 PM. Flight departs 22:35 → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦).",
           "type": "airport"
         }
       ]
