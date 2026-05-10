@@ -40,18 +40,16 @@
 - Backpack travel — straight through arrivals → pick up **rental car at LAX** → drive to **Hollywood City Inn** (~35 min) → arrive ~11:45 AM
 - ⚠️ **Check-in not until 3:00 PM** — leave backpacks at front desk and head out
 - 🚗 Free parking at hotel
-- **Afternoon — Downtown LA Loop** (~20 min Uber from hotel, ~$15–20):
+- **Afternoon — Sunset Strip Photo Drive** (quick exterior stops heading west on Sunset Blvd):
 
 | Time | Stop |
 |------|------|
-| ~12:00 PM | **Little Tokyo** — lunch at Japanese Village Plaza, browse anime & Japanese shops |
-| ~1:30 PM | **Arts District** — 5 min walk east; street art, hip cafés, galleries |
-| ~2:15 PM | **Grand Central Market** — iconic LA food hall since 1917; grab a snack/coffee |
-| ~2:45 PM | **Angels Flight Railway** — world's shortest railway (~$1), great photo op |
-| ~3:00 PM | **Walt Disney Concert Hall** — Frank Gehry architecture; free to walk around outside |
-| ~3:30 PM | **The Broad** — top modern art museum; book free timed tickets in advance at [thebroad.org](https://www.thebroad.org) |
+| ~1:30 PM | **Crossroads of the World** — 6671 Sunset Blvd; quirky 1936 Art Deco ship-shaped landmark with a spinning globe on top; one of LA's most photographed oddities (5 min) |
+| ~2:00 PM | **Chateau Marmont** — 8221 Sunset Blvd, West Hollywood; legendary Gothic Revival hotel (1929) frequented by Hollywood celebrities; photo of the ivy-draped facade from the street (5 min drive-by) |
+| ~2:15 PM | **Whisky a Go Go** — 8901 Sunset Blvd; legendary rock club (est. 1964); The Doors, Led Zeppelin, Alice Cooper all played here; iconic marquee sign photo on the Sunset Strip (5 min) |
 
-- **~4:30 PM**: Drive back to hotel (~20 min) → **check in** *(if not checked in yet — drop bags at front desk before heading out earlier)*
+- **~2:30 PM**: Drive back east toward hotel (~15 min)
+- **~3:00 PM**: Check in *(bags at front desk since check-in opens at 3:00 PM — perfect timing)*
 - **Evening**: Hotel is 0.9 mi from the Hollywood Walk of Fame — walk over for a first look at the stars and TCL Chinese Theatre forecourt at night. For dinner, **In-N-Out Burger** (7009 Sunset Blvd) is a 5-min drive from the hotel and open until 1 AM. Good warm-up before the full Day 3 sightseeing loop.
 
 ### Day 2 — Saturday, May 16: ZIPANGU Festival Day 🎵
@@ -87,17 +85,24 @@
 | Time | Plan |
 |------|------|
 | ~8:30 AM | Breakfast near hotel |
-| ~9:00 AM | **Hollywood Walk of Fame** — stroll Hollywood Blvd (if not done Friday) |
-| ~9:30 AM | **TCL Chinese Theatre** — iconic handprint forecourt (free outside) |
-| ~9:45 AM | **Hollywood Pantages Theatre** — 6233 Hollywood Blvd (near Hollywood & Vine); photo stop only; stunning 1930 Art Deco exterior |
-| ~10:00 AM | **Griffith Observatory** — 10 min drive; free admission, panoramic LA views, Hollywood Sign backdrop. Opens 10 AM |
-| 11:00 AM | ✅ Check out — grab backpacks and go |
-| ~12:00 PM | Lunch in Hollywood |
-| ~2:00 PM | **Beverly Hills / Rodeo Drive** (~20 min drive) — afternoon stroll, window shopping |
+| ~9:00 AM | **Egyptian Theatre** — 6712 Hollywood Blvd; 1922 Egyptian Revival movie palace (now Netflix premiere venue); hieroglyphic-decorated forecourt |
+| ~9:05 AM | **Musso & Frank Grill** — 6667 Hollywood Blvd; Hollywood's oldest restaurant (est. 1919); iconic red awning + vintage neon sign |
+| ~9:10 AM | **El Capitan Theatre** — 6838 Hollywood Blvd; Disney's ornate 1941 historic theatre; colourful Spanish Colonial facade |
+| ~9:15 AM | **Hollywood & Highland – Babylon Court** — giant arch that frames the Hollywood Sign; also home to the Dolby Theatre (Oscars venue) |
+| ~9:20 AM | **Hollywood Roosevelt Hotel** — 7000 Hollywood Blvd; built 1927, hosted the 1st Academy Awards in 1929; stunning Spanish Colonial exterior |
+| ~9:25 AM | **Madame Tussauds Hollywood** — 6933 Hollywood Blvd; celebrity figure displays visible from the street; free exterior photo ops |
+| ~9:30 AM | **Hollywood Walk of Fame** — stroll the star-studded sidewalk |
+| ~9:45 AM | **TCL Chinese Theatre** — iconic celebrity handprint + footprint forecourt (free outside) |
+| ~10:15 AM | **Capitol Records Building** — 1750 N Vine St; iconic circular "stack of records" tower (1956); short walk east from TCL then south on Vine |
+| ~10:30 AM | **Hollywood Pantages Theatre** — 6233 Hollywood Blvd; stunning 1930 Art Deco exterior; photo stop only |
+| ~10:50 AM | Return to hotel — check out, grab backpacks *(check-out deadline: 11:00 AM)* |
+| ~11:10 AM | **Lake Hollywood Park** — Weidlake Dr, Hollywood Hills; best close-up Hollywood Sign viewpoint without hiking; free street parking |
+| ~11:30 AM | **Griffith Observatory** — ~15 min drive from Lake Hollywood; free admission; panoramic LA views + Hollywood Sign backdrop |
+| ~12:30 PM | Lunch in Hollywood — last meal in LA |
+| ~2:00 PM | Afternoon free — **Beverly Hills / Rodeo Drive** optional (~20 min drive) |
 | ~5:00 PM | Wrap up sightseeing |
-| ~6:00 PM | Nice farewell dinner on Sunset Strip |
 | 8:30 PM | Drive to LAX (~35 min) — return rental car |
-| 9:30 PM | Arrive LAX — check in (2 hrs before international departure) |
+| 9:30 PM | Arrive LAX — check in |
 | 22:35 | ✈️ LAX departs → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦) |
 
 > **Tip**: Backpack travel means zero airport wait — arrive LAX 1.5 hrs before departure is plenty.
@@ -152,8 +157,7 @@
 | Trip | Rental Car | Uber Only |
 |------|-----------|-----------|
 | LAX → Hotel (Fri) | Drive ~35 min | ~$45–55 |
-| Hotel → Downtown LA (Fri) | Drive ~20 min, street parking ~$5 | ~$15–20 |
-| Downtown LA → Hotel (Fri) | Drive ~20 min | ~$15–20 |
+| Sunset Strip photo drive (Fri) | Drive ~30 min round trip, no parking | ~$0 |
 | Hotel → Parsons Lot / Old Town Pasadena (Sat) | Drive ~25 min, park $20 | ~$25–35 |
 | Parsons Lot → Rose Bowl | 🚌 Free shuttle | 🚌 Free shuttle |
 | Rose Bowl → Parsons Lot (post-show) | 🚶 Walk ~1.5 mi (~20 min) | 🚶 Walk ~1.5 mi (~20 min) |
@@ -174,7 +178,7 @@
 | Hotel parking | ✅ FREE |
 | Parsons lot — concert day | $20 |
 | Gas (weekend around LA) | ~$20–25 |
-| Misc. parking (Downtown, Beverly Hills) | ~$10–20 |
+| Misc. parking (Beverly Hills, if visited) | ~$5–10 |
 | **Total** | **~$100–145 USD** |
 
 > Book via [KAYAK](https://www.kayak.com/Los-Angeles-Airport-Car-Rentals.LAX.cap.ksp) or [momondo](https://www.momondo.com/car-rental/los-angeles-LAX-cap.ksp) — economy from ~$16/day at LAX
@@ -186,7 +190,7 @@
 | Item | Cost |
 |------|------|
 | LAX → Hotel | ~$45–55 |
-| Hotel ↔ Downtown LA (Fri, round trip) | ~$30–40 |
+| Sunset Strip photo drive (Fri) | — (self-drive, no fares) |
 | Hotel → Old Town Pasadena (Sat) | ~$25–35 |
 | Old Town Pasadena → Hotel (post-show, low surge) | ~$25–35 |
 | Hotel → Griffith Observatory (Sun) | ~$10–15 |

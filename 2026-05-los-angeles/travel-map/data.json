@@ -34,13 +34,43 @@
           "type": "hotel"
         },
         {
+          "id": "crossroads-of-the-world",
+          "name": "🚢 Crossroads of the World",
+          "lat": 34.0975,
+          "lng": -118.3285,
+          "time": "~1:30 PM",
+          "description": "6671 Sunset Blvd, Hollywood — quirky 1936 Art Deco landmark shaped like a ship's prow with a spinning globe on top, surrounded by small cottage-style buildings. One of LA's most photographed oddities. 5-min stop, free to view from outside.",
+          "type": "landmark",
+          "price": "Free"
+        },
+        {
+          "id": "chateau-marmont",
+          "name": "🏰 Chateau Marmont",
+          "lat": 34.0942,
+          "lng": -118.3827,
+          "time": "~2:00 PM",
+          "description": "8221 Sunset Blvd, West Hollywood — legendary Gothic Revival hotel built in 1929; one of Hollywood's most storied celebrity retreats. Photograph the dramatic ivy-draped facade from Sunset Blvd. Quick drive-by or park and snap.",
+          "type": "landmark",
+          "price": "Free (exterior)"
+        },
+        {
+          "id": "whisky-a-go-go",
+          "name": "🎸 Whisky a Go Go",
+          "lat": 34.0907,
+          "lng": -118.3887,
+          "time": "~2:15 PM",
+          "description": "8901 Sunset Blvd, West Hollywood — legendary rock club opened 1964; The Doors, Led Zeppelin, Alice Cooper and countless others played here. Quick photo of the iconic marquee sign on the Sunset Strip.",
+          "type": "landmark",
+          "price": "Free (exterior)"
+        },
+        {
           "id": "hollywood-blvd-walk",
           "name": "🌟 Hollywood Blvd – Evening Walk",
           "lat": 34.1016,
           "lng": -118.3413,
           "time": "Evening",
           "description": "Hotel is 0.9 mi from the Walk of Fame — stroll over for a first look at the stars and TCL Chinese Theatre forecourt at night. Good warm-up before the full Day 3 sightseeing loop.",
-          "type": "area",
+          "type": "landmark",
           "price": "Free"
         },
         {
@@ -99,17 +129,77 @@
           "name": "🌅 Hotel Breakfast",
           "lat": 34.1008,
           "lng": -118.3389,
-          "time": "Morning",
-          "description": "Leisurely breakfast near the hotel; last morning in Hollywood",
+          "time": "~8:30 AM",
+          "description": "Last morning in Hollywood — breakfast near the hotel before the sightseeing loop",
           "type": "hotel"
+        },
+        {
+          "id": "egyptian-theatre",
+          "name": "🎬 Egyptian Theatre",
+          "lat": 34.1016,
+          "lng": -118.3377,
+          "time": "~9:00 AM",
+          "description": "6712 Hollywood Blvd — Hollywood's first movie palace (1922), designed in Egyptian Revival style with hieroglyphic-decorated forecourt and colonnade. Now operated by Netflix as a premiere venue. Quick exterior photo stop.",
+          "type": "landmark",
+          "price": "Free (exterior)"
+        },
+        {
+          "id": "musso-and-frank",
+          "name": "🍽️ Musso & Frank Grill",
+          "lat": 34.1016,
+          "lng": -118.3372,
+          "time": "~9:05 AM",
+          "description": "6667 Hollywood Blvd — Hollywood's oldest restaurant, open since 1919. The red-and-black awning and vintage neon sign make for a great photo. Regulars over the years included Charlie Chaplin, Raymond Chandler, and Hunter S. Thompson.",
+          "type": "landmark",
+          "price": "Free (exterior photo)"
+        },
+        {
+          "id": "el-capitan-theatre",
+          "name": "🎭 El Capitan Theatre",
+          "lat": 34.1021,
+          "lng": -118.3401,
+          "time": "~9:10 AM",
+          "description": "6838 Hollywood Blvd — Disney's ornate 1941 historic premiere theatre with a colourful Spanish Colonial Revival facade. Typically has themed window displays tied to current Disney releases. Right across from TCL Chinese Theatre.",
+          "type": "landmark",
+          "price": "Free (exterior)"
+        },
+        {
+          "id": "hollywood-highland",
+          "name": "🏛️ Hollywood & Highland – Babylon Court",
+          "lat": 34.1018,
+          "lng": -118.3395,
+          "time": "~9:15 AM",
+          "description": "6801 Hollywood Blvd at Highland Ave — the giant open-air Babylon Court arch perfectly frames the Hollywood Sign in the hills. Best photo: stand at the base of the steps looking up through the arch toward the hills. Also home to the Dolby Theatre (Oscars venue). Free to enter and explore.",
+          "type": "landmark",
+          "price": "Free"
+        },
+        {
+          "id": "hollywood-roosevelt",
+          "name": "🏨 Hollywood Roosevelt Hotel",
+          "lat": 34.1023,
+          "lng": -118.3411,
+          "time": "~9:20 AM",
+          "description": "7000 Hollywood Blvd — built in 1927, hosted the very first Academy Awards ceremony in 1929. Stunning Spanish Colonial exterior with the neon Roosevelt sign. Located right next to TCL Chinese Theatre. Quick exterior photo.",
+          "type": "landmark",
+          "price": "Free (exterior)"
+        },
+        {
+          "id": "madame-tussauds",
+          "name": "🗿 Madame Tussauds Hollywood",
+          "lat": 34.1022,
+          "lng": -118.3408,
+          "time": "~9:25 AM",
+          "description": "6933 Hollywood Blvd — life-size celebrity figure displays are visible from the street before the building opens. Free photo ops at street level without buying a ticket.",
+          "type": "landmark",
+          "price": "Free (exterior)"
         },
         {
           "id": "walk-of-fame",
           "name": "⭐ Hollywood Walk of Fame",
           "lat": 34.1016,
           "lng": -118.3413,
-          "time": "~9:00 AM",
-          "description": "Stroll Hollywood Blvd and spot celebrity stars embedded in the sidewalk. Early morning means fewer crowds and great photos — golden hour light is a bonus.",
+          "time": "~9:30 AM",
+          "description": "Stroll Hollywood Blvd and spot celebrity stars embedded in the sidewalk. Early morning means fewer crowds and great photos.",
           "type": "landmark",
           "price": "Free"
         },
@@ -118,28 +208,48 @@
           "name": "🎬 TCL Chinese Theatre",
           "lat": 34.1022,
           "lng": -118.3411,
-          "time": "~10:00 AM",
+          "time": "~9:45 AM",
           "description": "Iconic Hollywood landmark — see celebrity handprints and footprints cast in concrete in the forecourt. Free to browse outside; open from 8 AM. <a href=\"https://secretlosangeles.com/tcl-chinese-theatre/\" target=\"_blank\">More info</a>",
           "type": "landmark",
           "price": "Exterior free"
+        },
+        {
+          "id": "capitol-records",
+          "name": "💿 Capitol Records Building",
+          "lat": 34.1018,
+          "lng": -118.3263,
+          "time": "~10:15 AM",
+          "description": "1750 N Vine St, Hollywood — the iconic circular tower designed to look like a stack of records with a stylus on top. Opened 1956; Frank Sinatra, Nat King Cole, and The Beatles all recorded here. Short walk east from TCL Chinese Theatre, then south on Vine.",
+          "type": "landmark",
+          "price": "Free (exterior)"
         },
         {
           "id": "pantages-theatre",
           "name": "🎭 Hollywood Pantages Theatre",
           "lat": 34.1017573,
           "lng": -118.3257416,
-          "time": "~10:15 AM",
+          "time": "~10:30 AM",
           "description": "6233 Hollywood Blvd, near Hollywood & Vine — quick photo stop. Stunning Art Deco exterior built in 1930; one of LA's most beautiful historic theatres. Free to admire and photograph outside. <a href=\"https://www.broadwayinhollywood.com/venues/detail/pantagestheatre\" target=\"_blank\">More info</a>",
           "type": "landmark",
           "price": "Exterior free"
+        },
+        {
+          "id": "lake-hollywood-park",
+          "name": "🎬 Lake Hollywood Park – Hollywood Sign View",
+          "lat": 34.1336,
+          "lng": -118.3362,
+          "time": "~11:00 AM",
+          "description": "Weidlake Dr, Hollywood Hills — the best close-up Hollywood Sign viewpoint without any hiking. Park on Weidlake Dr (free street parking); the sign looms directly above the reservoir. ~15 min drive from Hollywood Blvd. Go before noon to beat crowds.",
+          "type": "attraction",
+          "price": "Free"
         },
         {
           "id": "griffith-observatory",
           "name": "🔭 Griffith Observatory",
           "lat": 34.1184,
           "lng": -118.3004,
-          "time": "~10:30 AM",
-          "description": "Short 15-min drive up the hill; free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. Open from 10 AM — go right at opening to beat the midday crowds. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
+          "time": "~11:30 AM",
+          "description": "~15 min drive from Lake Hollywood; free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
           "type": "attraction",
           "price": "Free"
         },
