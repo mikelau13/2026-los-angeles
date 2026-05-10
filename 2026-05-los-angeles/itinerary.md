@@ -52,7 +52,7 @@
 | ~3:30 PM | **The Broad** — top modern art museum; book free timed tickets in advance at [thebroad.org](https://www.thebroad.org) |
 
 - **~4:30 PM**: Drive back to hotel (~20 min) → **check in** *(if not checked in yet — drop bags at front desk before heading out earlier)*
-- **Evening**: Hotel is 0.9 mi from the Hollywood Walk of Fame — walk over for dinner on Hollywood Blvd; take a first look at the stars and TCL Chinese Theatre forecourt at night. Good warm-up before the full Day 3 sightseeing loop. Restaurants on Hollywood Blvd stay open late.
+- **Evening**: Hotel is 0.9 mi from the Hollywood Walk of Fame — walk over for a first look at the stars and TCL Chinese Theatre forecourt at night. For dinner, **In-N-Out Burger** (7009 Sunset Blvd) is a 5-min drive from the hotel and open until 1 AM. Good warm-up before the full Day 3 sightseeing loop.
 
 ### Day 2 — Saturday, May 16: ZIPANGU Festival Day 🎵
 
@@ -89,6 +89,7 @@
 | ~8:30 AM | Breakfast near hotel |
 | ~9:00 AM | **Hollywood Walk of Fame** — stroll Hollywood Blvd (if not done Friday) |
 | ~9:30 AM | **TCL Chinese Theatre** — iconic handprint forecourt (free outside) |
+| ~9:45 AM | **Hollywood Pantages Theatre** — 6233 Hollywood Blvd (near Hollywood & Vine); photo stop only; stunning 1930 Art Deco exterior |
 | ~10:00 AM | **Griffith Observatory** — 10 min drive; free admission, panoramic LA views, Hollywood Sign backdrop. Opens 10 AM |
 | 11:00 AM | ✅ Check out — grab backpacks and go |
 | ~12:00 PM | Lunch in Hollywood |
