@@ -8,8 +8,8 @@
         {
           "id": "lax-arrival",
           "name": "✈️ LAX – Los Angeles International Airport",
-          "lat": 33.9425,
-          "lng": -118.4081,
+          "lat": 33.9421530,
+          "lng": -118.4036052,
           "time": "10:55 AM",
           "description": "YYZ departs 08:30 → LAX arrives 10:55 AM. Backpack travel — no baggage claim wait; straight through arrivals to lower level for rental car shuttle.",
           "type": "airport"
@@ -17,8 +17,8 @@
         {
           "id": "lax-car-rental",
           "name": "🚗 LAX Rental Car Center (TBD)",
-          "lat": 33.9347,
-          "lng": -118.3920,
+          "lat": 33.9500921,
+          "lng": -118.3735559,
           "time": "~11:15 AM (TBD)",
           "description": "⚠️ Rental car details TBD — booking not confirmed yet. Process: follow pink LAX Shuttle signs on arrivals level → free shuttle to LAX Rental Car Center, 5251 W 98th St (new facility, opened Mar 2026) → pick up at counter. Allow 45–60 min buffer from landing to driving. Bring: Canadian driver's licence + credit card + booking confirmation. Say NO to: FasTrak add-on (zero tolls on your routes) and extra insurance if credit card covers it.",
           "type": "transit",
@@ -27,8 +27,8 @@
         {
           "id": "hollywood-hotel",
           "name": "🏨 Hollywood City Inn",
-          "lat": 34.1045,
-          "lng": -118.3168,
+          "lat": 34.1002778,
+          "lng": -118.3097222,
           "time": "~12:30 PM",
           "description": "1615 North Western Avenue, Hollywood, CA 90027. Check-in from 3:00 PM — drop backpacks at front desk and head out. Free parking. 0.9 mi (~18 min walk) to Hollywood Walk of Fame.",
           "type": "hotel"
@@ -36,8 +36,8 @@
         {
           "id": "crossroads-of-the-world",
           "name": "🚢 Crossroads of the World",
-          "lat": 34.0975,
-          "lng": -118.3285,
+          "lat": 34.0981907,
+          "lng": -118.3356595,
           "time": "~1:30 PM",
           "description": "6671 Sunset Blvd, Hollywood — quirky 1936 Art Deco landmark shaped like a ship's prow with a spinning globe on top, surrounded by small cottage-style buildings. One of LA's most photographed oddities. 5-min stop, free to view from outside.",
           "type": "landmark",
@@ -46,8 +46,8 @@
         {
           "id": "chateau-marmont",
           "name": "🏰 Chateau Marmont",
-          "lat": 34.0942,
-          "lng": -118.3827,
+          "lat": 34.0982596,
+          "lng": -118.3684936,
           "time": "~2:00 PM",
           "description": "8221 Sunset Blvd, West Hollywood — legendary Gothic Revival hotel built in 1929; one of Hollywood's most storied celebrity retreats. Photograph the dramatic ivy-draped facade from Sunset Blvd. Quick drive-by or park and snap.",
           "type": "landmark",
@@ -56,8 +56,8 @@
         {
           "id": "whisky-a-go-go",
           "name": "🎸 Whisky a Go Go",
-          "lat": 34.0907,
-          "lng": -118.3887,
+          "lat": 34.0908480,
+          "lng": -118.3857624,
           "time": "~2:15 PM",
           "description": "8901 Sunset Blvd, West Hollywood — legendary rock club opened 1964; The Doors, Led Zeppelin, Alice Cooper and countless others played here. Quick photo of the iconic marquee sign on the Sunset Strip.",
           "type": "landmark",
@@ -66,8 +66,8 @@
         {
           "id": "hollywood-blvd-walk",
           "name": "🌟 Hollywood Blvd – Evening Walk",
-          "lat": 34.1016,
-          "lng": -118.3413,
+          "lat": 34.1023194,
+          "lng": -118.3399992,
           "time": "Evening",
           "description": "Hotel is 0.9 mi from the Walk of Fame — stroll over for a first look at the stars and TCL Chinese Theatre forecourt at night. Good warm-up before the full Day 3 sightseeing loop.",
           "type": "landmark",
@@ -92,8 +92,8 @@
         {
           "id": "hotel-morning-d2",
           "name": "🌅 Hotel – Leisurely Morning",
-          "lat": 34.1008,
-          "lng": -118.3389,
+          "lat": 34.1002778,
+          "lng": -118.3097222,
           "time": "Morning",
           "description": "Leisurely breakfast near the hotel; rest up and charge up for the big night ahead",
           "type": "hotel"
@@ -101,8 +101,8 @@
         {
           "id": "zipangu-festival",
           "name": "🎵 ZIPANGU Festival – Brookside at the Rose Bowl",
-          "lat": 34.1613,
-          "lng": -118.1676,
+          "lat": 34.1649540,
+          "lng": -118.1670420,
           "time": "3:30 PM – 10:00 PM+",
           "description": "First major Japanese music festival on US soil! Lineup: <strong>Ado ★ Headliner</strong> (~1 hr closing set inside the iconic Ado Box) · ATARASHII GAKKO! · MAN WITH A MISSION · CHANMINA · HANA · 10-FEET · Yuki Chiba. Doors: 3:30 PM · First acts: ~4:00 PM · Ado closes: ~10:00 PM. Capacity ~35,000. Organizer: Cloud Nine × Goldenvoice (Coachella organizers). Getting there: Uber/Lyft ~30 min from Hollywood. <a href=\"https://zipangu-event.cloud/\" target=\"_blank\">Official Site</a>",
           "type": "event",
@@ -111,8 +111,8 @@
         {
           "id": "hotel-return-d2",
           "name": "🚗 Drive Back to Hotel",
-          "lat": 34.1045,
-          "lng": -118.3168,
+          "lat": 34.1002778,
+          "lng": -118.3097222,
           "time": "Post-show (~10:30 PM+)",
           "description": "Walk ~1.5 mi (~20 min) from venue back to Parsons Parking Lot, Old Town Pasadena — away from the crowd surge. Then drive back to Hollywood City Inn (~25 min). Road traffic near the venue will have eased by the time you reach the car.",
           "type": "transit"
@@ -127,8 +127,8 @@
         {
           "id": "hotel-breakfast-d3",
           "name": "🌅 Hotel Breakfast",
-          "lat": 34.1008,
-          "lng": -118.3389,
+          "lat": 34.1002778,
+          "lng": -118.3097222,
           "time": "~8:30 AM",
           "description": "Last morning in Hollywood — breakfast near the hotel before the sightseeing loop",
           "type": "hotel"
@@ -136,8 +136,8 @@
         {
           "id": "egyptian-theatre",
           "name": "🎬 Egyptian Theatre",
-          "lat": 34.1016,
-          "lng": -118.3377,
+          "lat": 34.1009124,
+          "lng": -118.3366101,
           "time": "~9:00 AM",
           "description": "6712 Hollywood Blvd — Hollywood's first movie palace (1922), designed in Egyptian Revival style with hieroglyphic-decorated forecourt and colonnade. Now operated by Netflix as a premiere venue. Quick exterior photo stop.",
           "type": "landmark",
@@ -146,8 +146,8 @@
         {
           "id": "musso-and-frank",
           "name": "🍽️ Musso & Frank Grill",
-          "lat": 34.1016,
-          "lng": -118.3372,
+          "lat": 34.1017527,
+          "lng": -118.3353610,
           "time": "~9:05 AM",
           "description": "6667 Hollywood Blvd — Hollywood's oldest restaurant, open since 1919. The red-and-black awning and vintage neon sign make for a great photo. Regulars over the years included Charlie Chaplin, Raymond Chandler, and Hunter S. Thompson.",
           "type": "landmark",
@@ -156,8 +156,8 @@
         {
           "id": "el-capitan-theatre",
           "name": "🎭 El Capitan Theatre",
-          "lat": 34.1021,
-          "lng": -118.3401,
+          "lat": 34.1014027,
+          "lng": -118.3399622,
           "time": "~9:10 AM",
           "description": "6838 Hollywood Blvd — Disney's ornate 1941 historic premiere theatre with a colourful Spanish Colonial Revival facade. Typically has themed window displays tied to current Disney releases. Right across from TCL Chinese Theatre.",
           "type": "landmark",
@@ -166,8 +166,8 @@
         {
           "id": "hollywood-highland",
           "name": "🏛️ Hollywood & Highland – Babylon Court",
-          "lat": 34.1018,
-          "lng": -118.3395,
+          "lat": 34.1023194,
+          "lng": -118.3399992,
           "time": "~9:15 AM",
           "description": "6801 Hollywood Blvd at Highland Ave — the giant open-air Babylon Court arch perfectly frames the Hollywood Sign in the hills. Best photo: stand at the base of the steps looking up through the arch toward the hills. Also home to the Dolby Theatre (Oscars venue). Free to enter and explore.",
           "type": "landmark",
@@ -176,8 +176,8 @@
         {
           "id": "hollywood-roosevelt",
           "name": "🏨 Hollywood Roosevelt Hotel",
-          "lat": 34.1023,
-          "lng": -118.3411,
+          "lat": 34.1011504,
+          "lng": -118.3417817,
           "time": "~9:20 AM",
           "description": "7000 Hollywood Blvd — built in 1927, hosted the very first Academy Awards ceremony in 1929. Stunning Spanish Colonial exterior with the neon Roosevelt sign. Located right next to TCL Chinese Theatre. Quick exterior photo.",
           "type": "landmark",
@@ -186,8 +186,8 @@
         {
           "id": "madame-tussauds",
           "name": "🗿 Madame Tussauds Hollywood",
-          "lat": 34.1022,
-          "lng": -118.3408,
+          "lat": 34.1017225,
+          "lng": -118.3415065,
           "time": "~9:25 AM",
           "description": "6933 Hollywood Blvd — life-size celebrity figure displays are visible from the street before the building opens. Free photo ops at street level without buying a ticket.",
           "type": "landmark",
@@ -196,8 +196,8 @@
         {
           "id": "walk-of-fame",
           "name": "⭐ Hollywood Walk of Fame",
-          "lat": 34.1016,
-          "lng": -118.3413,
+          "lat": 34.1016059,
+          "lng": -118.3295694,
           "time": "~9:30 AM",
           "description": "Stroll Hollywood Blvd and spot celebrity stars embedded in the sidewalk. Early morning means fewer crowds and great photos.",
           "type": "landmark",
@@ -206,8 +206,8 @@
         {
           "id": "tcl-chinese-theatre",
           "name": "🎬 TCL Chinese Theatre",
-          "lat": 34.1022,
-          "lng": -118.3411,
+          "lat": 34.1020231,
+          "lng": -118.3409712,
           "time": "~9:45 AM",
           "description": "Iconic Hollywood landmark — see celebrity handprints and footprints cast in concrete in the forecourt. Free to browse outside; open from 8 AM. <a href=\"https://secretlosangeles.com/tcl-chinese-theatre/\" target=\"_blank\">More info</a>",
           "type": "landmark",
@@ -216,8 +216,8 @@
         {
           "id": "capitol-records",
           "name": "💿 Capitol Records Building",
-          "lat": 34.1018,
-          "lng": -118.3263,
+          "lat": 34.1033643,
+          "lng": -118.3261675,
           "time": "~10:15 AM",
           "description": "1750 N Vine St, Hollywood — the iconic circular tower designed to look like a stack of records with a stylus on top. Opened 1956; Frank Sinatra, Nat King Cole, and The Beatles all recorded here. Short walk east from TCL Chinese Theatre, then south on Vine.",
           "type": "landmark",
@@ -236,8 +236,8 @@
         {
           "id": "lake-hollywood-park",
           "name": "🎬 Lake Hollywood Park – Hollywood Sign View",
-          "lat": 34.1336,
-          "lng": -118.3362,
+          "lat": 34.1269448,
+          "lng": -118.3261053,
           "time": "~11:00 AM",
           "description": "Weidlake Dr, Hollywood Hills — the best close-up Hollywood Sign viewpoint without any hiking. Park on Weidlake Dr (free street parking); the sign looms directly above the reservoir. ~15 min drive from Hollywood Blvd. Go before noon to beat crowds.",
           "type": "attraction",
@@ -246,8 +246,8 @@
         {
           "id": "griffith-observatory",
           "name": "🔭 Griffith Observatory",
-          "lat": 34.1184,
-          "lng": -118.3004,
+          "lat": 34.1184341,
+          "lng": -118.3003935,
           "time": "~11:30 AM",
           "description": "~15 min drive from Lake Hollywood; free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
           "type": "attraction",
@@ -256,8 +256,8 @@
         {
           "id": "lunch-d3",
           "name": "🍔 Lunch near Hotel",
-          "lat": 34.1008,
-          "lng": -118.3389,
+          "lat": 34.1002778,
+          "lng": -118.3097222,
           "time": "~12:30 PM",
           "description": "Last meal in LA; many options on Hollywood Blvd and surrounding streets",
           "type": "restaurant"
@@ -265,8 +265,8 @@
         {
           "id": "lax-departure",
           "name": "✈️ LAX – Departure to Toronto (YYZ)",
-          "lat": 33.9425,
-          "lng": -118.4081,
+          "lat": 33.9421530,
+          "lng": -118.4036052,
           "time": "Leave 7:15 PM · Return car 8:00 PM · 22:35 flight",
           "description": "Leave last stop by 7:15 PM → drive ~35–40 min → arrive LAX Rental Car Center by 8:00 PM → return car (~10 min) → free shuttle to terminal (~8:30 PM) → mobile check-in + TSA security → at gate by ~9:15 PM. Gate closes ~10:05 PM. Flight departs 22:35 → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦).",
           "type": "airport"
