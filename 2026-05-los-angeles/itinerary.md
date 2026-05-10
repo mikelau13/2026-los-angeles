@@ -51,8 +51,8 @@
 | ~3:00 PM | **Walt Disney Concert Hall** — Frank Gehry architecture; free to walk around outside |
 | ~3:30 PM | **The Broad** — top modern art museum; book free timed tickets in advance at [thebroad.org](https://www.thebroad.org) |
 
-- **~4:30 PM**: Drive back to hotel (~20 min) → **check in at 3:00 PM** *(drop bags first before heading out)*
-- **Evening**: Dinner on Sunset Strip or Hollywood Blvd
+- **~4:30 PM**: Drive back to hotel (~20 min) → **check in** *(if not checked in yet — drop bags at front desk before heading out earlier)*
+- **Evening**: Hotel is 0.9 mi from the Hollywood Walk of Fame — walk over for dinner on Hollywood Blvd; take a first look at the stars and TCL Chinese Theatre forecourt at night. Good warm-up before the full Day 3 sightseeing loop. Restaurants on Hollywood Blvd stay open late.
 
 ### Day 2 — Saturday, May 16: ZIPANGU Festival Day 🎵
 

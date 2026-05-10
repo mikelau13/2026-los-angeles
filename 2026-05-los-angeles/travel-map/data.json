@@ -10,27 +10,38 @@
           "name": "✈️ LAX – Los Angeles International Airport",
           "lat": 33.9425,
           "lng": -118.4081,
-          "time": "~7:00 PM",
-          "description": "Arrive at LAX; clear customs and baggage (~1 hr); rideshare to Hollywood hotel (~30 min)",
+          "time": "10:55 AM",
+          "description": "YYZ departs 08:30 → LAX arrives 10:55 AM. Backpack travel — no baggage claim wait; straight through arrivals to lower level for rental car shuttle.",
           "type": "airport"
         },
         {
+          "id": "lax-car-rental",
+          "name": "🚗 LAX Rental Car Center (TBD)",
+          "lat": 33.9347,
+          "lng": -118.3920,
+          "time": "~11:15 AM (TBD)",
+          "description": "⚠️ Rental car details TBD — booking not confirmed yet. Process: follow pink LAX Shuttle signs on arrivals level → free shuttle to LAX Rental Car Center, 5251 W 98th St (new facility, opened Mar 2026) → pick up at counter. Allow 45–60 min buffer from landing to driving. Bring: Canadian driver's licence + credit card + booking confirmation. Say NO to: FasTrak add-on (zero tolls on your routes) and extra insurance if credit card covers it.",
+          "type": "transit",
+          "price": "TBD — economy from ~$25/day"
+        },
+        {
           "id": "hollywood-hotel",
-          "name": "🏨 Hollywood Hotel",
-          "lat": 34.1008,
-          "lng": -118.3389,
-          "time": "~8:30 PM",
-          "description": "Check in; drop bags; rest briefly. Recommended: <a href=\"https://www.loewshotels.com/hollywood-hotel\" target=\"_blank\">Loews Hollywood Hotel</a> (★★★★, 0.3 mi from Walk of Fame) · <a href=\"https://www.thehollywoodroosevelt.com/\" target=\"_blank\">The Hollywood Roosevelt</a> (historic landmark) · Holiday Inn Express Hollywood Walk of Fame (budget-friendly)",
+          "name": "🏨 Hollywood City Inn",
+          "lat": 34.1045,
+          "lng": -118.3168,
+          "time": "~12:30 PM",
+          "description": "1615 North Western Avenue, Hollywood, CA 90027. Check-in from 3:00 PM — drop backpacks at front desk and head out. Free parking. 0.9 mi (~18 min walk) to Hollywood Walk of Fame.",
           "type": "hotel"
         },
         {
-          "id": "hollywood-dinner",
-          "name": "🍽️ Late Dinner – Hollywood Blvd / Sunset Strip",
+          "id": "hollywood-blvd-walk",
+          "name": "🌟 Hollywood Blvd – Evening Walk",
           "lat": 34.1016,
           "lng": -118.3413,
-          "time": "~9:00 PM",
-          "description": "Many restaurants open past 9 PM on Hollywood Blvd and the Sunset Strip; enjoy your first LA meal",
-          "type": "restaurant"
+          "time": "Evening",
+          "description": "Hotel is 0.9 mi from the Walk of Fame — stroll over for dinner and a first look at the stars and TCL Chinese Theatre forecourt at night. Good warm-up before the full Day 3 sightseeing loop.",
+          "type": "area",
+          "price": "Free"
         }
       ]
     },
@@ -60,11 +71,11 @@
         },
         {
           "id": "hotel-return-d2",
-          "name": "🚗 Rideshare Back to Hotel",
-          "lat": 34.1008,
-          "lng": -118.3389,
+          "name": "🚗 Drive Back to Hotel",
+          "lat": 34.1045,
+          "lng": -118.3168,
           "time": "Post-show (~10:30 PM+)",
-          "description": "Uber/Lyft from Rose Bowl back to Hollywood (~30 min). Tip: wait 20–30 min after the show ends for surge prices to drop before booking",
+          "description": "Walk ~1.5 mi (~20 min) from venue back to Parsons Parking Lot, Old Town Pasadena — away from the crowd surge. Then drive back to Hollywood City Inn (~25 min). Road traffic near the venue will have eased by the time you reach the car.",
           "type": "transit"
         }
       ]
@@ -127,8 +138,8 @@
           "name": "✈️ LAX – Departure to Toronto (YYZ)",
           "lat": 33.9425,
           "lng": -118.4081,
-          "time": "2:30 PM check-in · 4:30 PM flight",
-          "description": "Rideshare to LAX at 1:30 PM (~35 min); arrive by 2:30 PM — 2 hrs before international departure. Flight departs ~4:30 PM to Toronto (YYZ). Don't forget to check in online the night before.",
+          "time": "~9:30 PM arrive LAX · 22:35 flight",
+          "description": "Drive to LAX Rental Car Center (~35 min); return car → free shuttle to terminal → check in. Arrive airport by 8:30 PM. Flight departs 22:35 → YYZ arrives Mon 06:24 (Victoria Day 🇨🇦). Backpack travel — arrive 1.5 hrs before departure is plenty.",
           "type": "airport"
         }
       ]
