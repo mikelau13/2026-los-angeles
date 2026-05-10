@@ -92,7 +92,7 @@
 - B Line → **Union Station** (~20 min) → **Metro A Line** → **Memorial Park Station** (~30 min)
 - ~$1.75/person each way
 
-### Day 3 — Sunday, May 17: Hills · Griffith · Sunset Strip → Night Flight
+### Day 3 — Sunday, May 17: Hills · Griffith · Sunset Strip · Beverly Hills · Santa Monica → Night Flight
 
 - ⚠️ **Check-out by 11:00 AM** — load backpacks into car and head out. **No return to hotel needed** — driving day all the way to LAX.
 - Sunday = lighter traffic, easier parking everywhere.
@@ -106,9 +106,13 @@
 | ~1:00 PM | **Lunch** — Hollywood area or along Sunset Blvd heading west |
 | ~2:00 PM | **Chateau Marmont** — 8221 Sunset Blvd, West Hollywood; Gothic Revival celebrity hotel (1929); quick facade photo on the way west |
 | ~2:15 PM | **Whisky a Go Go** — 8901 Sunset Blvd; legendary Sunset Strip rock club (1964); iconic marquee sign photo |
-| ~3:00 PM | **Beverly Hills / Rodeo Drive** — optional; ~10 min west of Sunset Strip; natural route toward LAX |
-| ~5:00 PM | Wrap up sightseeing |
-| 7:15 PM | Leave last stop — drive to LAX Rental Car Center (~35–40 min) |
+| ~2:30 PM | **The Beverly Hills Hotel** — 9641 Sunset Blvd; the iconic Pink Palace (1912); Marilyn Monroe / Sinatra / Elizabeth Taylor haunt; quick exterior photo |
+| ~2:45 PM | **Rodeo Drive** — world's most famous luxury shopping strip; Two Rodeo cobblestone lane at the south end; free to stroll and photograph |
+| ~3:00 PM | **Beverly Gardens Park – Beverly Hills Sign** — the famous electric script sign with lily pond; 5-min walk from Rodeo Dr |
+| ~3:15 PM | **Beverly Hills City Hall** — stunning 1932 Spanish Colonial Revival with green copper dome; 5-min walk from the sign |
+| ~4:00 PM | **Santa Monica Pier** — end of historic Route 66; Pacific Ocean views; Ferris wheel; 'End of the Trail' sign; ~25 min drive from Beverly Hills |
+| ~6:15 PM | Leave Santa Monica Pier — drive to LAX (~15–20 min) |
+| 7:15 PM | Leave by 7:15 PM at the latest — drive to LAX Rental Car Center (~15–20 min from pier) |
 | 8:00 PM | Arrive **LAX Rental Car Center** — return car (~10 min) |
 | ~8:30 PM | Shuttle to terminal → mobile check-in → TSA security |
 | ~9:15 PM | At gate *(gate closes ~10:05 PM — ~50 min buffer)* |
