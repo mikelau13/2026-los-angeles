@@ -1,0 +1,137 @@
+{
+  "days": [
+    {
+      "date": "2026-05-15",
+      "day": "Day 1",
+      "title": "Arrive in Los Angeles",
+      "locations": [
+        {
+          "id": "lax-arrival",
+          "name": "✈️ LAX – Los Angeles International Airport",
+          "lat": 33.9425,
+          "lng": -118.4081,
+          "time": "~7:00 PM",
+          "description": "Arrive at LAX; clear customs and baggage (~1 hr); rideshare to Hollywood hotel (~30 min)",
+          "type": "airport"
+        },
+        {
+          "id": "hollywood-hotel",
+          "name": "🏨 Hollywood Hotel",
+          "lat": 34.1008,
+          "lng": -118.3389,
+          "time": "~8:30 PM",
+          "description": "Check in; drop bags; rest briefly. Recommended: <a href=\"https://www.loewshotels.com/hollywood-hotel\" target=\"_blank\">Loews Hollywood Hotel</a> (★★★★, 0.3 mi from Walk of Fame) · <a href=\"https://www.thehollywoodroosevelt.com/\" target=\"_blank\">The Hollywood Roosevelt</a> (historic landmark) · Holiday Inn Express Hollywood Walk of Fame (budget-friendly)",
+          "type": "hotel"
+        },
+        {
+          "id": "hollywood-dinner",
+          "name": "🍽️ Late Dinner – Hollywood Blvd / Sunset Strip",
+          "lat": 34.1016,
+          "lng": -118.3413,
+          "time": "~9:00 PM",
+          "description": "Many restaurants open past 9 PM on Hollywood Blvd and the Sunset Strip; enjoy your first LA meal",
+          "type": "restaurant"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-16",
+      "day": "Day 2",
+      "title": "ZIPANGU Festival at the Rose Bowl",
+      "locations": [
+        {
+          "id": "hotel-morning-d2",
+          "name": "🌅 Hotel – Leisurely Morning",
+          "lat": 34.1008,
+          "lng": -118.3389,
+          "time": "Morning",
+          "description": "Leisurely breakfast near the hotel; rest up and charge up for the big night ahead",
+          "type": "hotel"
+        },
+        {
+          "id": "zipangu-festival",
+          "name": "🎵 ZIPANGU Festival – Brookside at the Rose Bowl",
+          "lat": 34.1613,
+          "lng": -118.1676,
+          "time": "3:30 PM – 10:00 PM+",
+          "description": "First major Japanese music festival on US soil! Lineup: <strong>Ado ★ Headliner</strong> (~1 hr closing set inside the iconic Ado Box) · ATARASHII GAKKO! · MAN WITH A MISSION · CHANMINA · HANA · 10-FEET · Yuki Chiba. Doors: 3:30 PM · First acts: ~4:00 PM · Ado closes: ~10:00 PM. Capacity ~35,000. Organizer: Cloud Nine × Goldenvoice (Coachella organizers). Getting there: Uber/Lyft ~30 min from Hollywood. <a href=\"https://zipangu-event.cloud/\" target=\"_blank\">Official Site</a>",
+          "type": "event",
+          "price": "GA from $149 · VIP from $399"
+        },
+        {
+          "id": "hotel-return-d2",
+          "name": "🚗 Rideshare Back to Hotel",
+          "lat": 34.1008,
+          "lng": -118.3389,
+          "time": "Post-show (~10:30 PM+)",
+          "description": "Uber/Lyft from Rose Bowl back to Hollywood (~30 min). Tip: wait 20–30 min after the show ends for surge prices to drop before booking",
+          "type": "transit"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "day": "Day 3",
+      "title": "Hollywood Sightseeing → Depart",
+      "locations": [
+        {
+          "id": "hotel-breakfast-d3",
+          "name": "🌅 Hotel Breakfast",
+          "lat": 34.1008,
+          "lng": -118.3389,
+          "time": "Morning",
+          "description": "Leisurely breakfast near the hotel; last morning in Hollywood",
+          "type": "hotel"
+        },
+        {
+          "id": "walk-of-fame",
+          "name": "⭐ Hollywood Walk of Fame",
+          "lat": 34.1016,
+          "lng": -118.3413,
+          "time": "~9:00 AM",
+          "description": "Stroll Hollywood Blvd and spot celebrity stars embedded in the sidewalk. Early morning means fewer crowds and great photos — golden hour light is a bonus.",
+          "type": "landmark",
+          "price": "Free"
+        },
+        {
+          "id": "tcl-chinese-theatre",
+          "name": "🎬 TCL Chinese Theatre",
+          "lat": 34.1022,
+          "lng": -118.3411,
+          "time": "~10:00 AM",
+          "description": "Iconic Hollywood landmark — see celebrity handprints and footprints cast in concrete in the forecourt. Free to browse outside; open from 8 AM. <a href=\"https://secretlosangeles.com/tcl-chinese-theatre/\" target=\"_blank\">More info</a>",
+          "type": "landmark",
+          "price": "Exterior free"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "🔭 Griffith Observatory",
+          "lat": 34.1184,
+          "lng": -118.3004,
+          "time": "~10:30 AM",
+          "description": "Short 15-min drive up the hill; free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. Open from 10 AM — go right at opening to beat the midday crowds. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
+          "type": "attraction",
+          "price": "Free"
+        },
+        {
+          "id": "lunch-d3",
+          "name": "🍔 Lunch near Hotel",
+          "lat": 34.1008,
+          "lng": -118.3389,
+          "time": "~12:30 PM",
+          "description": "Last meal in LA; many options on Hollywood Blvd and surrounding streets",
+          "type": "restaurant"
+        },
+        {
+          "id": "lax-departure",
+          "name": "✈️ LAX – Departure to Toronto (YYZ)",
+          "lat": 33.9425,
+          "lng": -118.4081,
+          "time": "2:30 PM check-in · 4:30 PM flight",
+          "description": "Rideshare to LAX at 1:30 PM (~35 min); arrive by 2:30 PM — 2 hrs before international departure. Flight departs ~4:30 PM to Toronto (YYZ). Don't forget to check in online the night before.",
+          "type": "airport"
+        }
+      ]
+    }
+  ]
+}
