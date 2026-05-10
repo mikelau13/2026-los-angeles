@@ -66,26 +66,31 @@
 | Time | Plan |
 |------|------|
 | Morning | Leisurely breakfast; rest up |
-| ~2:00 PM | Rideshare to Rose Bowl (~30 min from Hollywood) |
+| ~2:00 PM | Drive to Rose Bowl — official event parking opens 2:00 PM |
+| ~2:30 PM | Parked; short walk to festival entrance (~5–10 min) |
 | 3:30 PM | Doors open |
 | ~4:00 PM | First acts begin |
 | ~10:00 PM+ | Ado closes the night |
-| Post-show | Rideshare back to Hollywood hotel (~30 min) |
+| ~10:30 PM | Walk back to lot; drive home to hotel (~30 min via I-210 W → US-101 S) |
 
 **Getting to the Rose Bowl from Hollywood:**
 
-🚗 **Rental Car (Primary)**
-- Drive from hotel → **Parsons Parking Lot, Old Town Pasadena** (~25 min, $20/day)
-- 🚌 Free shuttle from Parsons lot → venue (~10 min)
+🚗 **Rental Car + Official Parking**
+- Drive from hotel → **Rose Bowl official parking lots** (~25 min via US-101 N → CA-134 E)
+- Route: exit **Orange Grove Blvd** → left on **Rosemont Ave** → right on **Seco St** → follow event signage
+- Parking opens **2:00 PM** — arrive ~2:15–2:30 PM to get a good spot before crowds
+- Lots: **General · Preferred (B & H) · Super VIP (D) · Rideshare (H)** — all credit card only
+- Walk from lot to festival entrance: ~5–10 min
 
 🔙 **Return after concert:**
-- 🚶 Walk 1.5 mi (~20 min) from venue back to Parsons lot — away from the crowd
-- Drive back to hotel (~25 min) — road traffic has eased by the time you reach the car
+- Follow posted crowd flow paths back to your lot (~5–10 min walk)
+- Allow 20–30 min to exit with post-show traffic
+- Drive back to hotel via I-210 W → US-101 S (~30 min) — home by ~11:00–11:30 PM
 
-🚇 **Metro (Backup / Alternative)**
+🚇 **Metro (Alternative)**
 - Walk 5 min → **Hollywood/Western Station** (Metro B Line)
 - B Line → **Union Station** (~20 min) → **Metro A Line** → **Memorial Park Station** (~30 min)
-- Free shuttle to venue | ~$1.75/person each way
+- ~$1.75/person each way
 
 ### Day 3 — Sunday, May 17: Hills · Griffith · Sunset Strip → Night Flight
 
@@ -148,10 +153,10 @@
 |-|--------------|-------------|
 | **Flexibility** | ✅ Full freedom | ✅ Good |
 | **Hotel parking** | ✅ Free (Hollywood City Inn) | — |
-| **Concert parking** | $20 (Parsons lot) | — |
-| **Post-concert chaos** | ✅ Walk back to car, drive freely | ✅ Walk to Old Town, Uber in low-surge zone |
+| **Concert parking** | ~$40 (Rose Bowl official lot) | — |
+| **Post-concert chaos** | ✅ Walk back to lot (~5 min), drive freely | ✅ Walk to rideshare zone (Lot H), Uber back |
 | **Drinking at concert** | ⚠️ Can't drink if driving | ✅ Drink freely |
-| **Total est. cost** | **~$110–150 USD** | **~$220–285 USD** |
+| **Total est. cost** | **~$130–175 USD** | **~$225–300 USD** |
 | **Stress level** | Low | Low |
 
 ---
@@ -162,10 +167,9 @@
 |------|-----------|-----------|
 | LAX → Hotel (Fri) | Drive ~35 min | ~$45–55 |
 | Hollywood Blvd strip walk (Fri) | 🚶 All on foot from hotel — no driving | ~$0 |
-| Hotel → Parsons Lot / Old Town Pasadena (Sat) | Drive ~25 min, park $20 | ~$25–35 |
-| Parsons Lot → Rose Bowl | 🚌 Free shuttle | 🚌 Free shuttle |
-| Rose Bowl → Parsons Lot (post-show) | 🚶 Walk ~1.5 mi (~20 min) | 🚶 Walk ~1.5 mi (~20 min) |
-| Parsons Lot → Hotel (post-show) | Drive ~25 min | Uber from Old Town ~$25–35 |
+| Hotel → Rose Bowl Official Parking (Sat) | Drive ~25 min, park ~$40 | — |
+| Hotel → Rose Bowl (Sat) | — | Uber ~$30–40 (rideshare to Lot H) |
+| Rose Bowl → Hotel (post-show) | Drive ~30 min (I-210 W → US-101 S) | Uber from Lot H ~$30–45 (surge) |
 | Walk of Fame (Sun) | 🚶 Walkable from hotel | 🚶 Walkable from hotel |
 | Hotel → Griffith Observatory (Sun) | Drive ~10 min | ~$10–15 |
 | Griffith → Beverly Hills (Sun) | Drive ~20 min, parking ~$5–10 | ~$20–25 |
@@ -180,10 +184,10 @@
 |------|------|
 | Economy car rental 2 days (LAX) | ~$50–80 |
 | Hotel parking | ✅ FREE |
-| Parsons lot — concert day | $20 |
+| Rose Bowl official parking — concert day | ~$40 |
 | Gas (weekend around LA) | ~$20–25 |
 | Misc. parking (Beverly Hills, if visited) | ~$5–10 |
-| **Total** | **~$100–145 USD** |
+| **Total** | **~$120–165 USD** |
 
 > Book via [KAYAK](https://www.kayak.com/Los-Angeles-Airport-Car-Rentals.LAX.cap.ksp) or [momondo](https://www.momondo.com/car-rental/los-angeles-LAX-cap.ksp) — economy from ~$16/day at LAX
 
@@ -195,22 +199,26 @@
 |------|------|
 | LAX → Hotel | ~$45–55 |
 | Hollywood Blvd strip walk (Fri) | — (on foot, no fares) |
-| Hotel → Old Town Pasadena (Sat) | ~$25–35 |
-| Old Town Pasadena → Hotel (post-show, low surge) | ~$25–35 |
+| Hotel → Rose Bowl (Sat) | ~$30–40 |
+| Rose Bowl → Hotel (post-show, surge pricing) | ~$30–45 |
 | Hotel → Griffith Observatory (Sun) | ~$10–15 |
 | Griffith → Beverly Hills → Hotel (Sun) | ~$35–45 |
 | Hotel → LAX (Sun night) | ~$45–55 |
-| **Total** | **~$215–280 USD** |
+| **Total** | **~$225–300 USD** |
 
 ---
 
-### Concert Day Strategy (Both Options)
+### Concert Day Strategy
 
-Regardless of rental car or Uber, the **post-concert plan is the same**:
-1. Take **free shuttle** from Parsons lot to venue
-2. After show: **walk 1.5 mi (~20 min)** back to Parsons / Old Town Pasadena
-3. Rental car: get in and drive — traffic near venue is behind you
-4. Uber: request from quiet Old Town street — surge is gone
+🚗 **Rental Car (chosen option):**
+1. Drive to Rose Bowl lots via CA-134 E → Orange Grove Blvd → Rosemont Ave → Seco St
+2. Arrive ~2:15–2:30 PM (lots open 2:00 PM) — walk to festival entrance (~5–10 min)
+3. After show: follow crowd flow signs back to lot (~5–10 min walk)
+4. Drive home via I-210 W → US-101 S (~30 min) — home by ~11:00–11:30 PM
+
+🚕 **Uber (alternative):**
+- Request rideshare to Rose Bowl directly — drop off at Lot H (rideshare zone)
+- After show: walk to Lot H, request Uber back to hotel — expect some post-show surge pricing
 
 ---
 
@@ -271,14 +279,14 @@ Non-drinker — rental car is the clear winner. ~$100–150 cheaper, full flexib
 
 ---
 
-### Route 2 — Hollywood City Inn → Parsons Parking Lot, Pasadena
-**100 W Walnut St, Pasadena, CA 91103 (~25 min, ~15 miles)**
+### Route 2 — Hollywood City Inn → Rose Bowl Official Parking
+**Brookside at the Rose Bowl, Pasadena, CA 91103 (~25 min, ~16 miles)**
 
 **Recommended route (no tolls):**
 1. Head east on **Hollywood Blvd** → merge onto **US-101 N** (Hollywood Freeway)
 2. Take **CA-134 E** (Ventura Freeway) toward Pasadena
-3. Exit **Fair Oaks Ave** south
-4. Turn left on **Union St** → **Parsons Parking Lot** on your right (between Fair Oaks Ave & Pasadena Ave)
+3. Exit **Orange Grove Blvd** — turn right
+4. Turn left on **Rosemont Ave** → turn right on **Seco St** → follow ZIPANGU event signage into lots
 
 > ✅ **No tolls on this route** — US-101 and CA-134 are standard free freeways
 
@@ -302,7 +310,7 @@ These are the **only toll roads relevant to central LA**. They are optional expr
 | Route | Uses I-10 / I-110? | Toll Risk |
 |-------|-------------------|-----------|
 | LAX → Hollywood (via I-405 + Santa Monica Blvd) | ❌ No | ✅ Zero tolls |
-| Hollywood → Parsons Pasadena (via US-101 + CA-134) | ❌ No | ✅ Zero tolls |
+| Hollywood → Rose Bowl Pasadena (via US-101 + CA-134) | ❌ No | ✅ Zero tolls |
 
 > **The Toll Roads** (SR-73, SR-133, SR-241, SR-261) are in Orange County — far south of your routes. Not relevant to your trip.
 
@@ -318,7 +326,7 @@ These are the **only toll roads relevant to central LA**. They are optional expr
 | **Confirm with rental agency** | Ask about their toll policy at pickup — some provide a FasTrak device for a daily fee |
 | **Traffic on I-405** | Known for heavy congestion — fine midday Friday but check Google Maps live |
 | **Parking at hotel** | ✅ Free at Hollywood City Inn |
-| **Parking at Parsons** | $20/day — cash or card |
+| **Parking at Rose Bowl** | ~$40 — credit card only (no cash) |
 
 ---
 

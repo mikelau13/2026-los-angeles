@@ -179,12 +179,22 @@
           "type": "hotel"
         },
         {
+          "id": "zipangu-parking",
+          "name": "🅿️ Rose Bowl Official Parking – ZIPANGU",
+          "lat": 34.1605295,
+          "lng": -118.1654608,
+          "time": "Arrive ~2:30 PM (opens 2:00 PM)",
+          "description": "Official ZIPANGU event parking at Rose Bowl lots. Route: CA-134 E → exit Orange Grove Blvd → left on Rosemont Ave → right on Seco St → follow event signage into lots. Parking types: General · Preferred (Lot B & H) · Super VIP (Lot D) · Rideshare drop-off (Lot H). Credit card only — no cash. No shuttle service. Venue is a short walk (~5–10 min) from the lots. Pre-purchase parking at checkout or via the official site. <a href=\"https://zipangu-event.cloud/getting-here/\" target=\"_blank\">Getting Here</a>",
+          "type": "transit",
+          "price": "General ~$40 · Preferred ~$60 (pre-purchase)"
+        },
+        {
           "id": "zipangu-festival",
           "name": "🎵 ZIPANGU Festival – Brookside at the Rose Bowl",
           "lat": 34.1649540,
           "lng": -118.1670420,
           "time": "3:30 PM – 10:00 PM+",
-          "description": "First major Japanese music festival on US soil! Lineup: <strong>Ado ★ Headliner</strong> (~1 hr closing set inside the iconic Ado Box) · ATARASHII GAKKO! · MAN WITH A MISSION · CHANMINA · HANA · 10-FEET · Yuki Chiba. Doors: 3:30 PM · First acts: ~4:00 PM · Ado closes: ~10:00 PM. Capacity ~35,000. Organizer: Cloud Nine × Goldenvoice (Coachella organizers). Getting there: drive to Parsons Parking Lot, Old Town Pasadena (~25 min, $20) → free shuttle to venue. <a href=\"https://zipangu-event.cloud/\" target=\"_blank\">Official Site</a>",
+          "description": "First major Japanese music festival on US soil! Lineup: <strong>Ado ★ Headliner</strong> (~1 hr closing set inside the iconic Ado Box) · ATARASHII GAKKO! · MAN WITH A MISSION · CHANMINA · HANA · 10-FEET · Yuki Chiba. Doors: 3:30 PM · First acts: ~4:00 PM · Ado closes: ~10:00 PM. Capacity ~35,000. Organizer: Cloud Nine × Goldenvoice (Coachella organizers). Park in official Rose Bowl lots (see parking entry above) — ~5–10 min walk to festival entrance. <a href=\"https://zipangu-event.cloud/\" target=\"_blank\">Official Site</a>",
           "type": "event",
           "price": "GA from $149 · VIP from $399"
         },
@@ -194,7 +204,7 @@
           "lat": 34.1002778,
           "lng": -118.3097222,
           "time": "Post-show (~10:30 PM+)",
-          "description": "Walk ~1.5 mi (~20 min) from venue back to Parsons Parking Lot, Old Town Pasadena — away from the crowd surge. Then drive back to Hollywood City Inn (~25 min). Road traffic near the venue will have eased by the time you reach the car.",
+          "description": "After Ado's closing set (~10:00 PM), follow posted crowd flow paths back to your Rose Bowl parking lot (~5–10 min walk). Allow 20–30 min to exit with post-show traffic. Drive back to Hollywood City Inn (~30 min via I-210 W → US-101 S). Home by ~11:00–11:30 PM.",
           "type": "transit"
         }
       ]
