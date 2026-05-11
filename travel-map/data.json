@@ -16,13 +16,13 @@
         },
         {
           "id": "lax-car-rental",
-          "name": "🚗 LAX Rental Car Center (TBD)",
-          "lat": 33.9500921,
-          "lng": -118.3735559,
-          "time": "~11:15 AM (TBD)",
-          "description": "⚠️ Rental car details TBD — booking not confirmed yet. Process: follow pink LAX Shuttle signs on arrivals level → free shuttle to LAX Rental Car Center, 5251 W 98th St (new facility, opened Mar 2026) → pick up at counter. Allow 45–60 min buffer from landing to driving. Bring: Canadian driver's licence + credit card + booking confirmation. Say NO to: FasTrak add-on (zero tolls on your routes) and extra insurance if credit card covers it.",
+          "name": "🚗 Fox Rent a Car – LAX (Europcar/Booking.com) ✅",
+          "lat": 33.9471,
+          "lng": -118.4083,
+          "time": "12:00 PM",
+          "description": "BOOKED ✅ via Booking.com (served by Fox Rent a Car). Address: 5251 W 98th St Suite 562, Los Angeles 90045. Phone: +1 (323) 673-9084. Process: follow pink LAX Shuttle signs on arrivals level → free shuttle to this location → go to the Fox Rent a Car desk. Bring: Canadian driver's licence + credit card + booking confirmation. Say NO to: FasTrak add-on (zero tolls on your routes) and Europcar's own insurance (RBC Avion Visa Infinite covers CDW). Opening hours: 12:00 AM–12:30 AM and 5:00 AM–11:59 PM.",
           "type": "transit",
-          "price": "TBD — economy from ~$25/day"
+          "price": "Booked — Toyota Yaris or similar Economy"
         },
         {
           "id": "hollywood-hotel",

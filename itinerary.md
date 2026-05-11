@@ -37,7 +37,7 @@
 ### Day 1 — Friday, May 15: Arrive in LA · Hollywood Blvd Strip Walk
 
 - ✈️ **YYZ departs 08:30 → LAX arrives 10:55 AM**
-- Backpack travel — straight through arrivals → pick up **rental car at LAX** → drive to **Hollywood City Inn** (~35 min) → arrive ~12:30 PM
+- Backpack travel — straight through arrivals → shuttle to **Fox Rent a Car** (via Europcar/Booking.com) → pick up car at 12:00 PM → drive to **Hollywood City Inn** (~35 min) → arrive ~12:45 PM
 - ⚠️ **Check-in not until 3:00 PM** — drop backpacks at front desk and head out on foot. **Car stays parked all afternoon — no driving needed.**
 - 🚗 Free parking at hotel
 
@@ -186,14 +186,12 @@
 
 | Item | Cost |
 |------|------|
-| Economy car rental 2 days (LAX) | ~$50–80 |
+| Toyota Yaris 3 days — Fox Rent a Car / Europcar (BOOKED ✅) | ~$150 CAD |
 | Hotel parking | ✅ FREE |
-| Rose Bowl official parking — concert day | ~$40 |
-| Gas (weekend around LA) | ~$20–25 |
-| Misc. parking (Beverly Hills, if visited) | ~$5–10 |
-| **Total** | **~$120–165 USD** |
-
-> Book via [KAYAK](https://www.kayak.com/Los-Angeles-Airport-Car-Rentals.LAX.cap.ksp) or [momondo](https://www.momondo.com/car-rental/los-angeles-LAX-cap.ksp) — economy from ~$16/day at LAX
+| Rose Bowl official parking — concert day | ~$40 USD |
+| Gas (weekend around LA) | ~$20–25 USD |
+| Misc. parking (Beverly Hills, if visited) | ~$5–10 USD |
+| **Total** | **~$200–215 CAD** |
 
 ---
 
@@ -237,29 +235,34 @@
 
 Non-drinker — rental car is the clear winner. ~$100–150 cheaper, full flexibility, and post-concert strategy works perfectly.
 
-### LAX Rental Car Pickup Process
+### LAX Rental Car Pickup — BOOKED ✅
+
+| | |
+|-|-|
+| **Supplier** | Fox Rent a Car (via Europcar / Booking.com) |
+| **Address** | 5251 W 98th St Suite 562, Los Angeles 90045 |
+| **Phone** | +1 (323) 673-9084 |
+| **Pick-up** | May 15, 12:00 PM |
+| **Return** | May 17, 8:00 PM |
+| **Vehicle** | Toyota Yaris 1.5 or similar Economy |
+| **Open hours** | 12:00 AM–12:30 AM and 5:00 AM–11:59 PM |
 
 | Step | Detail |
 |------|--------|
 | 1 | Land → straight through arrivals (backpacks, no baggage claim) |
 | 2 | Lower/Arrivals level → follow **pink LAX Shuttle signs** |
-| 3 | Free shuttle to **LAX Rental Car Center**, 5251 W 98th St (new, opened Mar 2026) — runs 24/7 every 5–10 min |
-| 4 | Pick up at rental counter |
-| ⏱️ Total | ~45–60 min from landing to driving |
+| 3 | Free shuttle to **Fox Rent a Car**, 5251 W 98th St — runs every 5–10 min |
+| 4 | Go to the **Fox Rent a Car desk** (not the Europcar desk) |
+| ⏱️ Total | ~60 min from landing to driving (pickup at noon) |
 
 **Bring to counter:**
 - ✅ Valid Canadian driver's licence
-- ✅ Credit card (debit usually not accepted)
+- ✅ RBC Avion Visa Infinite (pay the full rental on this card to activate CDW coverage)
 - ✅ Booking confirmation
 
 **⚠️ At the counter — say NO to:**
-- ❌ FasTrak / toll device add-on — your routes have zero tolls; this is a daily fee you don't need
-- ❌ Extra insurance if your credit card already provides rental coverage (check with your card provider before trip)
-
-**Cost tips:**
-- Airport rentals cost 10–25% more than off-airport due to concession fees
-- Friday–Sunday is peak pricing — book early to lock in best rate
-- Compare prices: [KAYAK](https://www.kayak.com/Los-Angeles-Airport-Car-Rentals.LAX.cap.ksp) · [momondo](https://www.momondo.com/car-rental/los-angeles-LAX-cap.ksp) · [AutoSlash](https://www.autoslash.com)
+- ❌ FasTrak / toll device add-on — your routes have zero tolls
+- ❌ Collision Damage Waiver / insurance add-on — **your RBC Avion Visa Infinite covers this** (CDW + theft + glass)
 
 **Return (Sunday night):**
 - Return car at same LAX Rental Car Center before heading to check-in
