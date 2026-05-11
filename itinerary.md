@@ -16,6 +16,7 @@
 | Organizer | Cloud Nine × Goldenvoice (Coachella organizers) |
 
 ### Lineup
+
 | Artist | Notes |
 |--------|-------|
 | **Ado** ★ Headliner | ~1 hr closing set; performs as silhouette inside illuminated "Ado box" |
