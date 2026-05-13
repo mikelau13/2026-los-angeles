@@ -167,16 +167,26 @@
     {
       "date": "2026-05-16",
       "day": "Day 2",
-      "title": "ZIPANGU Festival at the Rose Bowl",
+      "title": "Griffith Observatory · ZIPANGU Festival at the Rose Bowl",
       "locations": [
         {
           "id": "hotel-morning-d2",
-          "name": "🌅 Hotel – Leisurely Morning",
+          "name": "🌅 Hotel – Morning",
           "lat": 34.1002778,
           "lng": -118.3097222,
-          "time": "Morning",
-          "description": "Leisurely breakfast near the hotel; rest up and charge up for the big night ahead",
+          "time": "~9:00 AM",
+          "description": "Quick breakfast near the hotel, then head out to Griffith Observatory — opens 10:00 AM on Saturdays.",
           "type": "hotel"
+        },
+        {
+          "id": "griffith-observatory",
+          "name": "🔭 Griffith Observatory",
+          "lat": 34.1184341,
+          "lng": -118.3003935,
+          "time": "10:00 AM – 11:30 AM",
+          "description": "Opens 10:00 AM on Saturdays — arrive right at opening to beat crowds. Free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. Art Deco building appeared in Rebel Without a Cause and La La Land. Allow 1–1.5 hours. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
+          "type": "attraction",
+          "price": "Free"
         },
         {
           "id": "zipangu-parking",
@@ -212,7 +222,7 @@
     {
       "date": "2026-05-17",
       "day": "Day 3",
-      "title": "Hills · Griffith · Beverly Hills · Santa Monica → Depart",
+      "title": "Beverly Hills · Santa Monica → Depart",
       "locations": [
         {
           "id": "hotel-breakfast-d3",
@@ -220,54 +230,15 @@
           "lat": 34.1002778,
           "lng": -118.3097222,
           "time": "~9:00 AM",
-          "description": "Last breakfast in Hollywood. Check out by 11:00 AM — load backpacks into car and head out for a driving day. No return to hotel needed.",
+          "description": "Last breakfast in Hollywood. Check out by 10:30 AM — load backpacks into car and head straight to Beverly Hills. No return to hotel needed.",
           "type": "hotel"
-        },
-        {
-          "id": "lake-hollywood-park",
-          "name": "🎬 Lake Hollywood Park – Hollywood Sign View",
-          "lat": 34.1269448,
-          "lng": -118.3261053,
-          "time": "~11:15 AM",
-          "description": "Weidlake Dr, Hollywood Hills — the best close-up Hollywood Sign viewpoint without any hiking. Park on Weidlake Dr (free street parking); the sign looms directly above the reservoir. ~15 min drive from hotel. Go right after checkout to beat the midday crowds.",
-          "type": "attraction",
-          "price": "Free"
-        },
-        {
-          "id": "griffith-observatory",
-          "name": "🔭 Griffith Observatory",
-          "lat": 34.1184341,
-          "lng": -118.3003935,
-          "time": "~11:45 AM",
-          "description": "~15 min drive from Lake Hollywood. Free admission; sweeping panoramic LA views with the Hollywood Sign in the backdrop. Opens 12:00 PM on Sundays — arrive right at opening to beat crowds. <a href=\"https://griffithobservatory.org/\" target=\"_blank\">Official Site</a>",
-          "type": "attraction",
-          "price": "Free"
-        },
-        {
-          "id": "lunch-d3",
-          "name": "🍔 Lunch",
-          "lat": 34.1002778,
-          "lng": -118.3097222,
-          "time": "~1:00 PM",
-          "description": "Last meal in LA — many options in Hollywood or along Sunset Blvd heading west.",
-          "type": "restaurant"
-        },
-        {
-          "id": "whisky-a-go-go",
-          "name": "🎸 Whisky a Go Go",
-          "lat": 34.0908480,
-          "lng": -118.3857624,
-          "time": "~2:15 PM",
-          "description": "8901 Sunset Blvd, West Hollywood — legendary rock club opened 1964; The Doors, Led Zeppelin, Alice Cooper and countless others played here. Quick photo of the iconic marquee sign on the Sunset Strip. Continuing west on Sunset puts you naturally toward Beverly Hills and LAX.",
-          "type": "landmark",
-          "price": "Free (exterior)"
         },
         {
           "id": "beverly-hills-hotel",
           "name": "🌸 The Beverly Hills Hotel",
           "lat": 34.0818090,
           "lng": -118.4134030,
-          "time": "~2:30 PM",
+          "time": "~11:15 AM",
           "description": "9641 Sunset Blvd, Beverly Hills — the iconic 'Pink Palace' opened 1912; Marilyn Monroe, Frank Sinatra, and Elizabeth Taylor were regulars. The vivid pink-and-green banana-leaf facade is one of LA's most recognisable landmarks. Quick exterior photo from Sunset Blvd — continuing west puts you right into Beverly Hills.",
           "type": "landmark",
           "price": "Free (exterior)"
@@ -277,7 +248,7 @@
           "name": "🛍️ Rodeo Drive",
           "lat": 34.0692372,
           "lng": -118.4029392,
-          "time": "~2:45 PM",
+          "time": "~11:30 AM",
           "description": "Rodeo Drive at Brighton Way, Beverly Hills — the world's most famous luxury shopping street; Chanel, Gucci, Hermès, Louis Vuitton line a beautifully landscaped pedestrian strip. Two Rodeo (at the south end) is a cobblestone European-style lane worth walking. Free to stroll and photograph — no purchase necessary.",
           "type": "landmark",
           "price": "Free (strolling)"
@@ -287,7 +258,7 @@
           "name": "🌿 Beverly Gardens Park – Beverly Hills Sign",
           "lat": 34.0723540,
           "lng": -118.4034607,
-          "time": "~3:00 PM",
+          "time": "~12:00 PM",
           "description": "Santa Monica Blvd & N Crescent Dr, Beverly Hills — the famous electric 'Beverly Hills' script sign with a lily pond and fountain behind it; one of the most-photographed spots in the city. Beverly Gardens Park runs 1.9 miles along Santa Monica Blvd — the sign is at the eastern end. 5-min walk from Rodeo Drive.",
           "type": "attraction",
           "price": "Free"
@@ -297,7 +268,7 @@
           "name": "🏛️ Beverly Hills City Hall",
           "lat": 34.0730935,
           "lng": -118.4004388,
-          "time": "~3:15 PM",
+          "time": "~12:15 PM",
           "description": "455 N Rexford Dr, Beverly Hills — stunning 1932 Spanish Colonial Revival building with a distinctive green copper dome; appeared in numerous films and TV shows. Free to photograph from the street. 5-min walk from Beverly Gardens Park.",
           "type": "landmark",
           "price": "Free (exterior)"
@@ -307,7 +278,7 @@
           "name": "🎡 Santa Monica Pier",
           "lat": 34.0082821,
           "lng": -118.4987585,
-          "time": "~4:00 PM – 6:15 PM",
+          "time": "~2:00 PM – 5:30 PM",
           "description": "200 Santa Monica Pier, Santa Monica — the iconic pier at the end of historic Route 66; look for the 'End of the Trail' Route 66 sign on the pier. Pacific Park amusement rides and the Ferris wheel are photogenic even without riding. Walk to the end for sweeping Pacific Ocean views — a perfect send-off before flying home. ~25 min drive from Beverly Hills; only ~15–20 min from LAX. <a href=\"https://santamonicapier.org/\" target=\"_blank\">Official Site</a>",
           "type": "attraction",
           "price": "Free (pier) · Rides extra"

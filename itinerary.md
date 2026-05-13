@@ -62,11 +62,14 @@
 - **Evening**: Hollywood Blvd comes alive after dark — neon signs, lit-up TCL forecourt, street performers. Casual night stroll if you have the energy.
 - **Dinner**: **In-N-Out Burger** (7009 Sunset Blvd) — 5-min drive from hotel, open until 1 AM.
 
-### Day 2 — Saturday, May 16: ZIPANGU Festival Day 🎵
+### Day 2 — Saturday, May 16: Griffith Observatory · ZIPANGU Festival 🎵
 
 | Time | Plan |
 |------|------|
-| Morning | Leisurely breakfast; rest up |
+| ~9:00 AM | Breakfast near hotel |
+| 10:00 AM | **Griffith Observatory** — opens 10:00 AM Saturdays; free admission; panoramic LA + Hollywood Sign views; Art Deco building (*Rebel Without a Cause*, *La La Land*); allow 1–1.5 hrs |
+| ~11:30 AM | Drive to **Old Pasadena** (~20 min) — lunch + walk around; 1 mile from Rose Bowl, so park once and stay |
+| ~1:30 PM | Stroll toward Rose Bowl area; grab any last snacks |
 | ~2:00 PM | Drive to Rose Bowl — official event parking opens 2:00 PM |
 | ~2:30 PM | Parked; short walk to festival entrance (~5–10 min) |
 | 3:30 PM | Doors open |
@@ -93,25 +96,22 @@
 - B Line → **Union Station** (~20 min) → **Metro A Line** → **Memorial Park Station** (~30 min)
 - ~$1.75/person each way
 
-### Day 3 — Sunday, May 17: Hills · Griffith · Sunset Strip · Beverly Hills · Santa Monica → Night Flight
+### Day 3 — Sunday, May 17: Beverly Hills · Santa Monica → Night Flight
 
-- ⚠️ **Check-out by 11:00 AM** — load backpacks into car and head out. **No return to hotel needed** — driving day all the way to LAX.
+- ⚠️ **Check-out by 10:30 AM** — load backpacks into car and head straight to Beverly Hills. **No return to hotel needed** — driving day all the way to LAX.
 - Sunday = lighter traffic, easier parking everywhere.
 
 | Time | Plan |
 |------|------|
 | ~9:00 AM | Breakfast near hotel |
-| 11:00 AM | ✅ Check out — bags in car, go |
-| ~11:15 AM | **Lake Hollywood Park** — Weidlake Dr, Hollywood Hills; best close-up Hollywood Sign viewpoint without hiking; ~15 min drive from hotel; free street parking |
-| ~11:45 AM | **Griffith Observatory** — ~15 min drive from Lake Hollywood; opens 12:00 PM Sundays; free admission; panoramic LA views + Hollywood Sign backdrop |
-| ~1:00 PM | **Lunch** — Hollywood area or along Sunset Blvd heading west |
-| ~2:15 PM | **Whisky a Go Go** — 8901 Sunset Blvd; legendary Sunset Strip rock club (1964); iconic marquee sign photo |
-| ~2:30 PM | **The Beverly Hills Hotel** — 9641 Sunset Blvd; the iconic Pink Palace (1912); Marilyn Monroe / Sinatra / Elizabeth Taylor haunt; quick exterior photo |
-| ~2:45 PM | **Rodeo Drive** — world's most famous luxury shopping strip; Two Rodeo cobblestone lane at the south end; free to stroll and photograph |
-| ~3:00 PM | **Beverly Gardens Park – Beverly Hills Sign** — the famous electric script sign with lily pond; 5-min walk from Rodeo Dr |
-| ~3:15 PM | **Beverly Hills City Hall** — stunning 1932 Spanish Colonial Revival with green copper dome; 5-min walk from the sign |
-| ~4:00 PM | **Santa Monica Pier** — end of historic Route 66; Pacific Ocean views; Ferris wheel; 'End of the Trail' sign; ~25 min drive from Beverly Hills |
-| ~6:15 PM | Leave Santa Monica Pier — drive to LAX (~15–20 min) |
+| 10:30 AM | ✅ Check out — bags in car, go |
+| ~11:15 AM | **The Beverly Hills Hotel** — 9641 Sunset Blvd; the iconic Pink Palace (1912); 「荷里活有間大酒店」🎵; quick exterior photo |
+| ~11:30 AM | **Rodeo Drive** — world's most famous luxury shopping strip; Two Rodeo cobblestone lane at the south end; free to stroll and photograph |
+| ~12:00 PM | **Beverly Gardens Park** — the famous electric Beverly Hills script sign + lily pond; Yayoi Kusama tulip sculpture near Rodeo; rose garden (peak May bloom); 5-min walk from Rodeo Dr |
+| ~12:20 PM | **Beverly Hills City Hall** — stunning 1932 Spanish Colonial Revival with green copper dome; 5-min walk from the sign |
+| ~12:45 PM | **Lunch in Beverly Hills** — many options along Beverly Dr or Rodeo area |
+| ~2:00 PM | **Santa Monica Pier** — end of historic Route 66; Pacific Ocean views; Pacific Park Ferris wheel; 'End of the Trail' Route 66 sign; ~25 min drive from Beverly Hills |
+| ~5:30 PM | Leave Santa Monica Pier |
 | 7:15 PM | Leave by 7:15 PM at the latest — drive to LAX Rental Car Center (~15–20 min from pier) |
 | 8:00 PM | Arrive **LAX Rental Car Center** — return car (~10 min) |
 | ~8:30 PM | Shuttle to terminal → mobile check-in → TSA security |
