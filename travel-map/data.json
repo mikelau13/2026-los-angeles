@@ -253,16 +253,6 @@
           "type": "restaurant"
         },
         {
-          "id": "chateau-marmont",
-          "name": "🏰 Chateau Marmont",
-          "lat": 34.0982596,
-          "lng": -118.3684936,
-          "time": "~2:00 PM",
-          "description": "8221 Sunset Blvd, West Hollywood — legendary Gothic Revival hotel built in 1929; one of Hollywood's most storied celebrity retreats. Photograph the dramatic ivy-draped facade from Sunset Blvd. Quick drive-by or park and snap. Conveniently on the westward route toward LAX.",
-          "type": "landmark",
-          "price": "Free (exterior)"
-        },
-        {
           "id": "whisky-a-go-go",
           "name": "🎸 Whisky a Go Go",
           "lat": 34.0908480,

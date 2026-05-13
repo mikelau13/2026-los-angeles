@@ -105,7 +105,6 @@
 | ~11:15 AM | **Lake Hollywood Park** — Weidlake Dr, Hollywood Hills; best close-up Hollywood Sign viewpoint without hiking; ~15 min drive from hotel; free street parking |
 | ~11:45 AM | **Griffith Observatory** — ~15 min drive from Lake Hollywood; opens 12:00 PM Sundays; free admission; panoramic LA views + Hollywood Sign backdrop |
 | ~1:00 PM | **Lunch** — Hollywood area or along Sunset Blvd heading west |
-| ~2:00 PM | **Chateau Marmont** — 8221 Sunset Blvd, West Hollywood; Gothic Revival celebrity hotel (1929); quick facade photo on the way west |
 | ~2:15 PM | **Whisky a Go Go** — 8901 Sunset Blvd; legendary Sunset Strip rock club (1964); iconic marquee sign photo |
 | ~2:30 PM | **The Beverly Hills Hotel** — 9641 Sunset Blvd; the iconic Pink Palace (1912); Marilyn Monroe / Sinatra / Elizabeth Taylor haunt; quick exterior photo |
 | ~2:45 PM | **Rodeo Drive** — world's most famous luxury shopping strip; Two Rodeo cobblestone lane at the south end; free to stroll and photograph |
